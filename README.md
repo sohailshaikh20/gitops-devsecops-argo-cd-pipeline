@@ -104,9 +104,8 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/devsecops-demo.git
-   ![CI/CD](https://github.com/sohailshaikh20/gitops-devsecops-argo-cd-pipeline/actions/workflows/ci-cd.yml/badge.svg)
-   cd devsecops-demo
+   git clone [https://github.com/sohailshaikh20/gitops-devsecops-argo-cd-pipeline]
+   cd gitops-devsecops-argo-cd-pipeline
    ```
 
 2. Install dependencies:
